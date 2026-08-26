@@ -49,6 +49,31 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>Módulo 01</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=int">
+                                Tipo inteiro
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=float">
+                                Tipo float
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=aritmetica">
+                                Op. Aritmetica
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=tipos&file=desafio_precedencia">
+                                Desafio Precedência
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
